@@ -1,0 +1,678 @@
+* {margin: 0;padding: 0;}
+
+.col-12.coppy-right {
+    width: 100%;
+    text-align: center;
+    font-family: monospace;
+    border-top: 1px solid #141414;
+}
+
+.col-12.ft-icon {
+    text-align: center;
+}
+
+.col-12.ft-icon a {
+    padding: 0px 10px 0px 10px;
+    font-size: 42px;
+}
+
+input[type="input"] {
+    height: 56px;
+    width: 240px;
+}
+
+.ft-contact form {
+    padding-top: 55px;
+    width: 100%;
+    padding-left: 40px;
+}
+
+footer {
+    margin-top: 42px;
+}
+
+.ft-phone {
+    width: 100%;
+    text-align: center;
+    padding-top: 19px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.ft-content {
+    width: 41%;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 19px;
+}
+
+.ft-title {
+    width: 100%;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-md-4.ft-contact {
+    height: 225px;
+}
+
+.ig i {
+    font-size: 58px;
+    top: 38%;
+    position: absolute;
+    left: 42%;
+    color: white;
+    transform: translateX(-50%);
+    opacity: 0;
+}
+
+.col-md-6.col-lg-3.ig:hover .ig-hover {
+    animation: ig 0.5s forwards;
+}
+
+.col-md-6.col-lg-3.ig {
+    padding: 0;
+    position: relative;
+    height: 264px;
+    margin: 10px 0px 10px 0px;
+}
+
+.col-md-6.col-lg-3.ig img {
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.video img {
+    width: 100%;
+    height: 100%;
+}
+.customer-slides ul li.customer-active {
+    opacity: 1;
+}
+.customer-next:hover {color: green;}
+.customer-prev:hover {color: green;}
+.customer-prev {
+    position: absolute;
+    left: 1%;
+    bottom: 50%;
+    font-size: 40px;
+    transform: translateY(50%);
+    color: orange;
+}
+
+.customer-next {
+    position: absolute;
+    right: 1%;
+    bottom: 50%;
+    font-size: 40px;
+    transform: translateY(50%);
+    color: orange;
+}
+
+.customer-rate {
+    position: absolute;
+    width: 125px;
+    height: 20px;
+    top: 61%;
+    color: orange;
+    left: 52%;
+    transform: translateX(-50%);
+}
+
+.customer-name {
+    width: 100%;
+    text-align: center;
+    top: 51%;
+    position: absolute;
+}
+
+.feed-back {
+    width: 70%;
+    height: 28%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.customer-slide {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.customer-slides ul {
+    width: 100%;
+    height: 100%;
+}
+
+.customer-slides ul li {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.customer-slides {
+    width: 60%;
+    margin: auto;
+    height: 330px;
+    position: relative;
+    overflow: hidden;
+}
+
+.customer-title-2 {
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.customer-title {
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+.content-5 {
+    margin-top: 30px;
+}
+
+i.fas.fa-play {
+    padding-left: 7px;
+}
+
+.video .btn.btn-warning {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    font-size: 44px;
+    left: 50%;
+    border-radius: 50%;
+    top: 43%;
+    transform: translateX(-27%);
+}
+
+.video-content {
+    position: absolute;
+    left: 50%;
+    top: 33%;
+    transform: translateX(-49%);
+    color: white;
+    font-family: segoe ui light;
+    font-size: 30px;
+}
+
+.video-title {position: absolute;color: white;font-size: 42px;text-align: center;left: 50%;transform: translateX(-50%);top: 10%;font-weight: bold;font-family: cursive;}
+
+img.customer-img {
+    width: 62px;
+    height: 62px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.col-12.video {
+    position: relative;
+    height: 700px;
+}
+
+.content-4 {
+    margin-top: 25px;
+}
+
+.about-us-content {
+    padding-left: 5%;
+    font-size: 20px;
+    font-family: segoe ui light;
+}
+
+.about-us-hot {
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.about-us-title {
+    width: 100%;
+    text-align: center;
+    font-size: 33px;
+    font-family: cursive;
+}
+
+.col-md-6.about-us {
+    margin-top: 100px;
+    padding: 0px;
+}
+
+img.img-about-2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 46%;
+    height: 50%;
+}
+
+img.img-about-1 {
+    position: absolute;
+    width: 90%;
+    height: 95%;
+}
+
+.col-md-6.img-about {
+    margin-top: 100px;
+}
+
+.content-3 {
+    background-image: url(images/content-bg2.png);
+}
+
+.content-3 {}
+
+.col-md-6.img-about {
+    height: 730px;
+    position: relative;
+    padding: 0px;
+}
+
+.content-2 {
+    margin-top: 33px;
+}
+
+.bg-fade {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0;
+}
+
+.content-2-prd:hover img {
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+.content-2-prd:hover .bg-fade {
+    opacity: 0.6;
+}
+
+.col-sm-6.content-2-prd {
+    padding: 0px;
+    height: 460px;
+    position: relative;
+    overflow: hidden;
+}
+
+.content-2-prd-price {
+    position: absolute;
+    top: 40%;
+    margin-left: 10%;
+    color: orange;
+    font-size: 45px;
+}
+
+.content-2-prd-name {
+    position: absolute;
+    margin-left: 10%;
+    top: 51%;
+    color: white;
+    font-family: initial;
+    font-size: 29px;
+}
+
+.content-2-prd-content {
+    position: absolute;
+    margin-left: 10%;
+    top: 66%;
+    color: white;
+    font-size: 20px;
+    font-family: segoe ui light;
+}
+
+.col-sm-6.content-2-prd img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.col-sm-6.content-2-prd .btn {
+    position: absolute;
+    top: 78%;
+    margin-left: 10%;
+}
+
+.btn.btn-warning.btn-block {
+    margin-top: 48px;
+    color: white !important;
+}
+.burger-info {
+    float: left;
+    width: 69%;
+    height: 100%;
+}
+
+.burger-info .burger-name {height: 21%;text-align: center;font-size: 20px;font-family: segoe ui light;font-weight: bold;}
+
+.burger-info .burger-demo {
+    height: 50%;
+    text-align: left;
+    padding-left: 17px;
+    font-size: 17px;
+}
+
+.burger-info .burger-price {
+    padding-left: 5%;
+    color: red;
+    font-size: 34px;
+}
+
+.col-12.title-1 {
+    height: 50px;
+    line-height: 50px;
+    font-size: 44px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-12.title-1-content {
+    height: 50px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: segoe ui light;
+    padding-top: 13px;
+}
+
+.product-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.product-1 img {
+    float: left;
+}
+.content-1 {background-image: url(images/bg-content1.png);}
+.btn-next {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 1%;
+    bottom: 50%;
+    transform: translateY(-50%);
+    z-index: 3;
+}
+.btn-next:hover i{
+    color:orange;
+}
+.btn-prev {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1%;
+    bottom: 50%;
+    transform: translateY(-50%);
+    z-index: 3;
+}
+.btn-prev i {
+    font-size: 51px;
+    color: white;
+}
+.btn-prev:hover i{
+    color: orange;
+}
+.btn-next i {
+    font-size: 51px;
+    color: white;
+}
+
+ul.btn-bot {
+    position: absolute;
+    width: 200px;
+    height: 20px;
+    overflow: hidden;
+    bottom: 3%;
+    left: 50%;
+    transform: translateX(-45%);
+    z-index: 3;
+
+}
+
+ul.btn-bot li {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0px 15px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    text-indent: -9999px;
+}
+
+ul {list-style-type: none;}
+.container-fluid {margin: 0!important;
+    padding: 0 !important;
+}
+
+
+.slider {
+    position: absolute;
+    width: 100%;
+    height: 900px;
+    background-color: #141414;
+    overflow: hidden;
+}
+
+.slider-container {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+.slides {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.slides ul {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slides ul li {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 2;
+    transition: 0.4s;
+}
+.slides ul li.slide-active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.slides ul li .slide {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.slides ul li .slide img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.slide-title {
+    width: 169px;
+    height: 64px;
+    margin-left: 45%;
+    top: 20%;
+    background-image: url('images/bg-slide.png');
+    text-align: center;
+    padding-top: 19px;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bold;
+    opacity: 0;
+    visibility: hidden;}
+
+.slide-content {
+    position: absolute;
+    width: 300px;
+    height: 141px;
+    left: 42%;
+    top: 27%;
+    color: white;
+    font-family: fantasy;
+    font-size: 87px;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+
+}
+
+.navbar-nav {
+    width: 100%;
+    height: 60px;
+}
+
+li.nav-item {
+    width: 24%;
+}
+
+li.nav-item a {
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: bold;
+    color: white !important;
+    font-family: segoe ui light;
+    text-align: center;
+}
+
+button.btn.btn-warning.my-2 {
+    height: 69px;
+    font-size: 25px;
+}
+
+header {
+    width: 100%;
+    height: 900px;
+}
+
+header .container-fluid {
+    position: relative;
+}
+
+.menu {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    padding: 0px;
+    left: 0px;
+    z-index: 5;
+    right: 0px;
+    transition: 0.5s;
+}
+
+.menu.menu-fixed {
+    position: fixed;
+    background-color: black;
+    height: 95px;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    width: 100%;
+    height: 100px;
+    padding: 0px 0px 0px 0px;
+    z-index: 6;
+}
+a.navbar-brand {
+    width:180px;
+    height: 100px;
+}
+a.navbar-brand img {
+    width: 100%;
+    height: 100%;
+}
+.nextout {
+    animation: nextout 0.1s forwards;
+}
+@-webkit-keyframes nextout {
+    0%{transform: translateX(0%);opacity: 1;visibility: visible;}
+    100% {transform: translateX(-100%);opacity: 0;visibility: hidden;}
+}
+.nextin {animation: nextin 0.1s forwards;}
+@-webkit-keyframes nextin {
+    0%{transform: translateX(100%);opacity: 0;visibility: hidden;}
+    100% {transform: translateX(0%);opacity: 1;visibility: visible;}
+}
+.prevout {
+    animation: prevout 0.1s forwards;
+}
+@-webkit-keyframes prevout {
+    0%{transform: translateX(0%);opacity: 1;visibility: visible;}
+    100% {transform: translateX(100%);opacity: 0;visibility: hidden;}
+}
+.previn {animation: previn 0.1s forwards;}
+@-webkit-keyframes previn {
+    0%{transform: translateX(-100%);opacity: 0;visibility: hidden;}
+    100% {transform: translateX(0%);opacity: 1;visibility: visible;}
+}
+ul.btn-bot li.btn-active {background-color: #F46D31 !important;}
+li.slide-active .slide .slide-title {
+    animation: titleslide 0.5s forwards;
+}
+@-webkit-keyframes titleslide {
+    0%{transform: scale(1);opacity: 0;visibility: hidden;}
+    50%{transform: scale(1.4);opacity: 1;visibility: visible;}
+    100%{transform: scale(1);opacity: 1;visibility: visible;}
+}
+li.slide-active .slide .slide-content {
+    animation: titlecontent 0.5s forwards;
+    animation-delay: 0.4s;
+}
+@-webkit-keyframes titlecontent {
+    0%{transform: scale(1);opacity: 0;visibility: hidden;}
+    50%{transform: scale(1.4);opacity: 1;visibility: visible;}
+    100%{transform: scale(1);opacity: 1;visibility: visible;}
+}
+.csout {
+    animation: csout 0.5s forwards;
+}
+@-webkit-keyframes csout {
+    0%{transform: translateX(0%);opacity: 1;visibility: visible;}
+    100% {transform: translateX(-100%);opacity: 0;visibility: hidden;}
+}
+.csin {animation: csin 0.5s forwards;}
+@-webkit-keyframes csin {
+    0%{transform: translateX(100%);opacity: 0;visibility: hidden;}
+    100% {transform: translateX(0%);opacity: 1;visibility: visible;}
+}
+.csprevin {
+    animation: csprevin 0.5s forwards;
+}
+@-webkit-keyframes csprevin {
+    0%{transform: translateX(-100%);opacity: 0;visibility:hidden;}
+    100% {transform: translateX(0%);opacity: 1;visibility: visible;}
+}
+.csprevout {animation: csprevout 0.5s forwards;}
+@-webkit-keyframes csprevout {
+    0%{transform: translateX(0%);opacity: 1;visibility: visible;}
+    100% {transform: translateX(100%);opacity: 2;visibility: hidden;}
+}
+@-webkit-keyframes ig {
+    0%{transform: scale(0.5);opacity: 0;}
+    100%{transform: scale(1);opacity: 1;}
+}

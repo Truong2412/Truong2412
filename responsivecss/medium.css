@@ -1,0 +1,60 @@
+* {margin: 0;padding: 0;}
+header {
+	height: 450px;
+}
+.slider {
+	height: 450px;
+}
+.btn-next {
+	bottom: 38%;
+}
+.btn-prev {
+    bottom: 38%;
+}
+.slide-content {
+	top: 32%;
+	left: 39%;
+	font-size: 58px;
+}
+button.btn.btn-warning.my-2 {
+	visibility: hidden;
+}
+.burger-info {
+    float: left;
+    width: 49%;
+    height: 100%;
+}
+.col-sm-6.content-2-prd {
+    height: 276px;
+}
+.content-2-prd-price {
+	top: 22%;
+}
+.content-2-prd-name {
+	top: 43%;
+}
+.content-2-prd-content {
+	top: 55%;
+	color: 16px;
+}
+.col-md-6.img-about {
+    height: 566px;
+    position: relative;
+    padding: 0px;
+}
+.col-12.video {
+    position: relative;
+    height: 445px;
+}
+.ig i {
+    left: 44%;
+}
+.ft-content {
+    width: 71%;
+}
+.ft-contact form {
+    padding-top: 55px;
+    width: 100%;
+    left: 50%;
+    transform: translateX(23%);
+}

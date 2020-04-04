@@ -1,0 +1,33 @@
+* {margin: 0;padding: 0;}
+header {
+	height: 575px;
+}
+.slider {
+	height: 575px;
+}
+.btn-next {
+	bottom: 42%;
+}
+.btn-prev {
+	bottom: 42%;
+}
+.slide-content {
+	top: 29%;
+	left: 39%;
+	font-size: 65px;
+}
+.burger-info {
+    float: left;
+    width: 63%;
+    height: 100%;
+}
+.col-sm-6.content-2-prd {
+    height: 375px;
+}
+.col-12.video {
+    position: relative;
+    height: 490px;
+}
+.ft-content {
+    width: 53%;
+}

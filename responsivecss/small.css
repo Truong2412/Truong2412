@@ -1,0 +1,68 @@
+* {margin: 0;padding: 0;}
+header {
+	height: 325px;
+}
+.slider {
+	height: 325px;
+}
+.btn-next {
+	bottom: 45%;
+	width: 33px;
+	transform: translateY(-8%);
+}
+.btn-next i {
+    font-size: 37px;
+ }
+.btn-prev {
+	bottom: 45%;
+	bottom: 45%;
+	width: 33px;
+	transform: translateY(-8%);
+}
+.btn-prev i {
+    font-size: 37px;
+ }
+ .slide-title {
+ 	margin-left: 38%;
+ 	top: 25%;
+ }
+.slide-content {
+	top: 42%;
+	left: 30%;
+	font-size: 45px;
+}
+button.btn.btn-warning.my-2 {
+	visibility: hidden;
+}
+.burger-info {
+    float: left;
+    width: 52%;
+    height: 100%;
+}
+.col-sm-6.content-2-prd {
+    height: 244px;
+}
+.content-2-prd-price {
+	top: 22%;
+}
+.content-2-prd-name {
+	top: 43%;
+}
+.content-2-prd-content {
+	top: 55%;
+	color: 16px;
+}
+.col-12.video {
+    position: relative;
+    height: 375px;
+}
+.video-content{visibility: hidden;}
+.ig i {
+    left: 46%;
+}
+.ft-contact form {
+    padding-top: 55px;
+    width: 100%;
+    left: 50%;
+    transform: translateX(23%);
+}

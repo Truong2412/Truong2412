@@ -1,0 +1,14 @@
+* {margin: 0;padding: 0;}
+header {
+	height: 750px;
+}
+.slider {
+	height: 750px;
+}
+.col-sm-6.content-2-prd {
+    height: 409px;
+}
+.col-12.video {
+    position: relative;
+    height: 519px;
+}
